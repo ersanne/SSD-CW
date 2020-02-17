@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/access-controllers/appsensor-access-control-reference" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/analysis-engines/appsensor-analysis-reference" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/analysis-engines/appsensor-analysis-rules" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/appsensor-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configuration-modes/appsensor-configuration-stax" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-activemq-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-activemq-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-activemq-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-amqp-rabbitmq-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-amqp-rabbitmq-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-amqp-rabbitmq-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-kafka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-kafka-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-kafka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-local" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-rpc-thrift-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-rpc-thrift-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-rpc-thrift-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-ws-rest-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-ws-rest-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-ws-soap-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-ws-soap-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/execution-modes/appsensor-ws-soap-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/geolocators/appsensor-geolocation-geoip2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/integrations/appsensor-integration-block-emitter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/integrations/appsensor-integration-cef-syslog" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/integrations/appsensor-integration-influxdb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/integrations/appsensor-integration-jmx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/integrations/appsensor-integration-prometheus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/integrations/appsensor-integration-spring-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reporting-engines/appsensor-reporting-simple-logging" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reporting-engines/appsensor-reporting-websocket" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-apps/appsensor-block-proxy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample-apps/appsensor-block-store" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storage-providers/appsensor-storage-file-based" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storage-providers/appsensor-storage-in-memory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storage-providers/appsensor-storage-influxdb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storage-providers/appsensor-storage-jpa2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storage-providers/appsensor-storage-nosql-elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storage-providers/appsensor-storage-nosql-mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storage-providers/appsensor-storage-nosql-riak" charset="UTF-8" />
+  </component>
+</project>

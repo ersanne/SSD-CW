@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72c02d97-3234-4627-885f-18ceb8dcfe9e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/access-controllers/appsensor-access-control-reference/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/appsensor-integration-cef-syslog/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-activemq-client/target/" />
+    <ignored path="$PROJECT_DIR$/analysis-engines/appsensor-analysis-reference/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-rpc-thrift-core/target/" />
+    <ignored path="$PROJECT_DIR$/storage-providers/appsensor-storage-file-based/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-activemq-core/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-amqp-rabbitmq-server/target/" />
+    <ignored path="$PROJECT_DIR$/storage-providers/appsensor-storage-influxdb/target/" />
+    <ignored path="$PROJECT_DIR$/configuration-modes/appsensor-configuration-stax/target/" />
+    <ignored path="$PROJECT_DIR$/storage-providers/appsensor-storage-nosql-mongodb/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-amqp-rabbitmq-client/target/" />
+    <ignored path="$PROJECT_DIR$/sample-apps/appsensor-block-proxy/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-kafka-server/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-rpc-thrift-server/target/" />
+    <ignored path="$PROJECT_DIR$/appsensor-core/target/" />
+    <ignored path="$PROJECT_DIR$/sample-apps/appsensor-block-store/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-ws-soap-server/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-ws-soap-core/target/" />
+    <ignored path="$PROJECT_DIR$/geolocators/appsensor-geolocation-geoip2/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/appsensor-integration-influxdb/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-local/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-ws-soap-client/target/" />
+    <ignored path="$PROJECT_DIR$/storage-providers/appsensor-storage-jpa2/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/appsensor-integration-jmx/target/" />
+    <ignored path="$PROJECT_DIR$/storage-providers/appsensor-storage-nosql-elasticsearch/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/appsensor-integration-block-emitter/target/" />
+    <ignored path="$PROJECT_DIR$/reporting-engines/appsensor-reporting-simple-logging/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/appsensor-integration-spring-security/target/" />
+    <ignored path="$PROJECT_DIR$/integrations/appsensor-integration-prometheus/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-ws-rest-client/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-rpc-thrift-client/target/" />
+    <ignored path="$PROJECT_DIR$/storage-providers/appsensor-storage-in-memory/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-ws-rest-server/target/" />
+    <ignored path="$PROJECT_DIR$/reporting-engines/appsensor-reporting-websocket/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-kafka-core/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-amqp-rabbitmq-core/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-kafka-client/target/" />
+    <ignored path="$PROJECT_DIR$/execution-modes/appsensor-activemq-server/target/" />
+    <ignored path="$PROJECT_DIR$/storage-providers/appsensor-storage-nosql-riak/target/" />
+    <ignored path="$PROJECT_DIR$/analysis-engines/appsensor-analysis-rules/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-759959205">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="10" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="10" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/execution-modes/appsensor-ws-rest-client/src/main/java/org/owasp/appsensor/event/RestEventManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="671">
+              <caret line="93" column="22" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/execution-modes/appsensor-ws-rest-client/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2340">
+              <caret line="156" column="31" selection-start-line="156" selection-start-column="31" selection-end-line="156" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample-apps/appsensor-ws-rest-client-boot-data-generator/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1275">
+              <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client-libs/Java/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1110">
+              <caret line="74" column="36" selection-start-line="74" selection-start-column="31" selection-end-line="74" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client-libs/Java/demo/RestApiJavaDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="27" column="30" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>AppSensorClient</find>
+      <find>AppSensorClient appSensorClient</find>
+      <find>RestEventManager</find>
+      <find>appSensorClient</find>
+      <find>org.glassfish.jerse</find>
+      <find>org.glassfish.jersey.</find>
+      <find>org.glassfish</find>
+      <find>org.glassfish.jersey</find>
+      <find>javax.ws.rs</find>
+      <find>javax.ws</find>
+      <find>&lt;dependency&gt; 		  	&lt;groupId&gt;org.glassfish.jersey.bundles.repackaged&lt;/groupId&gt; 		  	&lt;artifactId&gt;jersey-guava&lt;/artifactId&gt; 		&lt;/dependency&gt;</find>
+      <find>jersey-guava</find>
+      <find>jersey-client</find>
+      <find>jersey.version</find>
+      <find>jer</find>
+      <find>guava</find>
+      <find>repac</find>
+      <find>repack</find>
+      <find>jersey-cli</find>
+      <find>media-proxy</find>
+      <find>jersey.media</find>
+      <find>pro</find>
+      <find>grizzly2-http</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/execution-modes/appsensor-ws-rest-client/src/main/java/org/owasp/appsensor/event/RestEventManager.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="appsensor-core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="appsensor-core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="appsensor-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="appsensor-ws-rest-client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="appsensor-ws-rest-client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1857" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="appsensor-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appsensor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appsensor-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appsensor" type="462c0819:PsiDirectoryNode" />
+              <item name="client-libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appsensor-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appsensor" type="462c0819:PsiDirectoryNode" />
+              <item name="client-libs" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appsensor-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appsensor" type="462c0819:PsiDirectoryNode" />
+              <item name="client-libs" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appsensor-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appsensor" type="462c0819:PsiDirectoryNode" />
+              <item name="reporting-engines" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appsensor-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appsensor" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appsensor-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appsensor" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-apps" type="462c0819:PsiDirectoryNode" />
+              <item name="appsensor-ws-rest-client-boot-data-generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535359899917" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72c02d97-3234-4627-885f-18ceb8dcfe9e" name="Default Changelist" comment="" />
+      <created>1534939720929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534939720929</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20453289" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.24709785" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sample-apps/appsensor-ws-rest-client-boot-data-generator/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/execution-modes/appsensor-ws-rest-client/appsensor-ws-rest-client.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/execution-modes/appsensor-local/src/main/java/org/owasp/appsensor/local/event/LocalEventManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geolocators/appsensor-geolocation-geoip2/src/main/java/org/owasp/appsensor/geolocation/geoip2/GeoIp2GeoLocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appsensor-core/src/main/java/org/owasp/appsensor/core/AppSensorClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-apps/appsensor-ws-rest-client-boot-data-generator/src/main/java/org/owasp/appsensor/generator/SimpleDataGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="71" column="55" selection-start-line="71" selection-start-column="55" selection-end-line="71" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-apps/demo-appsensor-local/src/main/java/org/owasp/appsensor/demo/NoteValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reporting-engines/appsensor-reporting-websocket/src/test/java/org/owasp/appsensor/reporting/DemoDataPopulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reporting-engines/appsensor-reporting-websocket/src/test/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reporting-engines/appsensor-reporting-websocket/src/test/resources/appsensor-client-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appsensor-core/src/test/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-apps/appsensor-ws-rest-client-boot-data-generator/src/main/java/org/owasp/appsensor/AppsensorWsRestClientBootDataGeneratorApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-apps/appsensor-ws-rest-client-boot-data-generator/src/main/resources/appsensor-client-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-apps/appsensor-block-proxy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="182" column="52" lean-forward="true" selection-start-line="182" selection-start-column="52" selection-end-line="182" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-104">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0/javax.ws.rs-api-2.0.jar!/javax/ws/rs/client/ClientBuilder.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/c3p0/c3p0/0.9.1.1/c3p0-0.9.1.1.jar!/com/mchange/v2/beans/BeansUtils.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.0.3.RELEASE/spring-beans-4.0.3.RELEASE.jar!/org/springframework/beans/BeanUtils.class" />
+    <entry file="file://$PROJECT_DIR$/execution-modes/appsensor-ws-rest-client/src/main/java/org/owasp/appsensor/event/RestEventManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="93" column="22" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/execution-modes/appsensor-ws-rest-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="156" column="31" selection-start-line="156" selection-start-column="31" selection-end-line="156" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-apps/appsensor-ws-rest-client-boot-data-generator/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-libs/Java/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="36" selection-start-line="74" selection-start-column="31" selection-end-line="74" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-libs/Java/demo/RestApiJavaDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

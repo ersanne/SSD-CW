@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/access-controllers/appsensor-access-control-reference/appsensor-access-control-reference.iml" filepath="$PROJECT_DIR$/access-controllers/appsensor-access-control-reference/appsensor-access-control-reference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-activemq-client/appsensor-activemq-client.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-activemq-client/appsensor-activemq-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-activemq-core/appsensor-activemq-core.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-activemq-core/appsensor-activemq-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-activemq-server/appsensor-activemq-server.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-activemq-server/appsensor-activemq-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-amqp-rabbitmq-client/appsensor-amqp-rabbitmq-client.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-amqp-rabbitmq-client/appsensor-amqp-rabbitmq-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-amqp-rabbitmq-core/appsensor-amqp-rabbitmq-core.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-amqp-rabbitmq-core/appsensor-amqp-rabbitmq-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-amqp-rabbitmq-server/appsensor-amqp-rabbitmq-server.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-amqp-rabbitmq-server/appsensor-amqp-rabbitmq-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analysis-engines/appsensor-analysis-reference/appsensor-analysis-reference.iml" filepath="$PROJECT_DIR$/analysis-engines/appsensor-analysis-reference/appsensor-analysis-reference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analysis-engines/appsensor-analysis-rules/appsensor-analysis-rules.iml" filepath="$PROJECT_DIR$/analysis-engines/appsensor-analysis-rules/appsensor-analysis-rules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-apps/appsensor-block-proxy/appsensor-block-proxy.iml" filepath="$PROJECT_DIR$/sample-apps/appsensor-block-proxy/appsensor-block-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-apps/appsensor-block-store/appsensor-block-store.iml" filepath="$PROJECT_DIR$/sample-apps/appsensor-block-store/appsensor-block-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configuration-modes/appsensor-configuration-stax/appsensor-configuration-stax.iml" filepath="$PROJECT_DIR$/configuration-modes/appsensor-configuration-stax/appsensor-configuration-stax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appsensor-core/appsensor-core.iml" filepath="$PROJECT_DIR$/appsensor-core/appsensor-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geolocators/appsensor-geolocation-geoip2/appsensor-geolocation-geoip2.iml" filepath="$PROJECT_DIR$/geolocators/appsensor-geolocation-geoip2/appsensor-geolocation-geoip2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integrations/appsensor-integration-block-emitter/appsensor-integration-block-emitter.iml" filepath="$PROJECT_DIR$/integrations/appsensor-integration-block-emitter/appsensor-integration-block-emitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integrations/appsensor-integration-cef-syslog/appsensor-integration-cef-syslog.iml" filepath="$PROJECT_DIR$/integrations/appsensor-integration-cef-syslog/appsensor-integration-cef-syslog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integrations/appsensor-integration-influxdb/appsensor-integration-influxdb.iml" filepath="$PROJECT_DIR$/integrations/appsensor-integration-influxdb/appsensor-integration-influxdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integrations/appsensor-integration-jmx/appsensor-integration-jmx.iml" filepath="$PROJECT_DIR$/integrations/appsensor-integration-jmx/appsensor-integration-jmx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integrations/appsensor-integration-prometheus/appsensor-integration-prometheus-emitter.iml" filepath="$PROJECT_DIR$/integrations/appsensor-integration-prometheus/appsensor-integration-prometheus-emitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integrations/appsensor-integration-spring-security/appsensor-integration-spring-security.iml" filepath="$PROJECT_DIR$/integrations/appsensor-integration-spring-security/appsensor-integration-spring-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-kafka-client/appsensor-kafka-client.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-kafka-client/appsensor-kafka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-kafka-core/appsensor-kafka-core.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-kafka-core/appsensor-kafka-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-kafka-server/appsensor-kafka-server.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-kafka-server/appsensor-kafka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-local/appsensor-local.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-local/appsensor-local.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appsensor-parent.iml" filepath="$PROJECT_DIR$/appsensor-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reporting-engines/appsensor-reporting-simple-logging/appsensor-reporting-simple-logging.iml" filepath="$PROJECT_DIR$/reporting-engines/appsensor-reporting-simple-logging/appsensor-reporting-simple-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reporting-engines/appsensor-reporting-websocket/appsensor-reporting-websocket.iml" filepath="$PROJECT_DIR$/reporting-engines/appsensor-reporting-websocket/appsensor-reporting-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-rpc-thrift-client/appsensor-rpc-thrift-client.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-rpc-thrift-client/appsensor-rpc-thrift-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-rpc-thrift-core/appsensor-rpc-thrift-core.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-rpc-thrift-core/appsensor-rpc-thrift-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-rpc-thrift-server/appsensor-rpc-thrift-server.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-rpc-thrift-server/appsensor-rpc-thrift-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage-providers/appsensor-storage-file-based/appsensor-storage-file-based.iml" filepath="$PROJECT_DIR$/storage-providers/appsensor-storage-file-based/appsensor-storage-file-based.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage-providers/appsensor-storage-in-memory/appsensor-storage-in-memory.iml" filepath="$PROJECT_DIR$/storage-providers/appsensor-storage-in-memory/appsensor-storage-in-memory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage-providers/appsensor-storage-influxdb/appsensor-storage-influxdb.iml" filepath="$PROJECT_DIR$/storage-providers/appsensor-storage-influxdb/appsensor-storage-influxdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage-providers/appsensor-storage-jpa2/appsensor-storage-jpa2.iml" filepath="$PROJECT_DIR$/storage-providers/appsensor-storage-jpa2/appsensor-storage-jpa2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage-providers/appsensor-storage-nosql-elasticsearch/appsensor-storage-nosql-elasticsearch.iml" filepath="$PROJECT_DIR$/storage-providers/appsensor-storage-nosql-elasticsearch/appsensor-storage-nosql-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage-providers/appsensor-storage-nosql-mongodb/appsensor-storage-nosql-mongodb.iml" filepath="$PROJECT_DIR$/storage-providers/appsensor-storage-nosql-mongodb/appsensor-storage-nosql-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage-providers/appsensor-storage-nosql-riak/appsensor-storage-nosql-riak.iml" filepath="$PROJECT_DIR$/storage-providers/appsensor-storage-nosql-riak/appsensor-storage-nosql-riak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-ws-rest-client/appsensor-ws-rest-client.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-ws-rest-client/appsensor-ws-rest-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-ws-rest-server/appsensor-ws-rest-server.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-ws-rest-server/appsensor-ws-rest-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-ws-soap-client/appsensor-ws-soap-client.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-ws-soap-client/appsensor-ws-soap-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-ws-soap-core/appsensor-ws-soap-core.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-ws-soap-core/appsensor-ws-soap-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-modes/appsensor-ws-soap-server/appsensor-ws-soap-server.iml" filepath="$PROJECT_DIR$/execution-modes/appsensor-ws-soap-server/appsensor-ws-soap-server.iml" />
+    </modules>
+  </component>
+</project>

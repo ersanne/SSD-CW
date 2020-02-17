@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="appsensor-access-control-reference" />
+        <module name="appsensor-activemq-client" />
+        <module name="appsensor-activemq-core" />
+        <module name="appsensor-activemq-server" />
+        <module name="appsensor-amqp-rabbitmq-client" />
+        <module name="appsensor-amqp-rabbitmq-core" />
+        <module name="appsensor-amqp-rabbitmq-server" />
+        <module name="appsensor-analysis-reference" />
+        <module name="appsensor-analysis-rules" />
+        <module name="appsensor-block-proxy" />
+        <module name="appsensor-block-store" />
+        <module name="appsensor-configuration-stax" />
+        <module name="appsensor-core" />
+        <module name="appsensor-geolocation-geoip2" />
+        <module name="appsensor-integration-block-emitter" />
+        <module name="appsensor-integration-cef-syslog" />
+        <module name="appsensor-integration-influxdb" />
+        <module name="appsensor-integration-jmx" />
+        <module name="appsensor-integration-prometheus-emitter" />
+        <module name="appsensor-integration-spring-security" />
+        <module name="appsensor-kafka-client" />
+        <module name="appsensor-kafka-core" />
+        <module name="appsensor-kafka-server" />
+        <module name="appsensor-local" />
+        <module name="appsensor-reporting-simple-logging" />
+        <module name="appsensor-reporting-websocket" />
+        <module name="appsensor-rpc-thrift-client" />
+        <module name="appsensor-rpc-thrift-core" />
+        <module name="appsensor-rpc-thrift-server" />
+        <module name="appsensor-storage-file-based" />
+        <module name="appsensor-storage-in-memory" />
+        <module name="appsensor-storage-influxdb" />
+        <module name="appsensor-storage-jpa2" />
+        <module name="appsensor-storage-nosql-elasticsearch" />
+        <module name="appsensor-storage-nosql-mongodb" />
+        <module name="appsensor-storage-nosql-riak" />
+        <module name="appsensor-ws-rest-client" />
+        <module name="appsensor-ws-rest-server" />
+        <module name="appsensor-ws-soap-client" />
+        <module name="appsensor-ws-soap-core" />
+        <module name="appsensor-ws-soap-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="appsensor-access-control-reference" target="1.7" />
+      <module name="appsensor-activemq-client" target="1.7" />
+      <module name="appsensor-activemq-core" target="1.7" />
+      <module name="appsensor-activemq-server" target="1.7" />
+      <module name="appsensor-amqp-rabbitmq-client" target="1.7" />
+      <module name="appsensor-amqp-rabbitmq-core" target="1.7" />
+      <module name="appsensor-amqp-rabbitmq-server" target="1.7" />
+      <module name="appsensor-analysis-reference" target="1.7" />
+      <module name="appsensor-analysis-rules" target="1.7" />
+      <module name="appsensor-block-proxy" target="1.7" />
+      <module name="appsensor-block-store" target="1.7" />
+      <module name="appsensor-configuration-stax" target="1.7" />
+      <module name="appsensor-core" target="1.7" />
+      <module name="appsensor-geolocation-geoip2" target="1.7" />
+      <module name="appsensor-integration-block-emitter" target="1.7" />
+      <module name="appsensor-integration-cef-syslog" target="1.7" />
+      <module name="appsensor-integration-influxdb" target="1.7" />
+      <module name="appsensor-integration-jmx" target="1.7" />
+      <module name="appsensor-integration-prometheus-emitter" target="1.7" />
+      <module name="appsensor-integration-spring-security" target="1.7" />
+      <module name="appsensor-kafka-client" target="1.7" />
+      <module name="appsensor-kafka-core" target="1.7" />
+      <module name="appsensor-kafka-server" target="1.7" />
+      <module name="appsensor-local" target="1.7" />
+      <module name="appsensor-parent" target="1.7" />
+      <module name="appsensor-reporting-simple-logging" target="1.7" />
+      <module name="appsensor-reporting-websocket" target="1.7" />
+      <module name="appsensor-rpc-thrift-client" target="1.7" />
+      <module name="appsensor-rpc-thrift-core" target="1.7" />
+      <module name="appsensor-rpc-thrift-server" target="1.7" />
+      <module name="appsensor-storage-file-based" target="1.7" />
+      <module name="appsensor-storage-in-memory" target="1.7" />
+      <module name="appsensor-storage-influxdb" target="1.7" />
+      <module name="appsensor-storage-jpa2" target="1.7" />
+      <module name="appsensor-storage-nosql-elasticsearch" target="1.7" />
+      <module name="appsensor-storage-nosql-mongodb" target="1.7" />
+      <module name="appsensor-storage-nosql-riak" target="1.7" />
+      <module name="appsensor-ws-rest-client" target="1.7" />
+      <module name="appsensor-ws-rest-server" target="1.7" />
+      <module name="appsensor-ws-soap-client" target="1.7" />
+      <module name="appsensor-ws-soap-core" target="1.7" />
+      <module name="appsensor-ws-soap-server" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
